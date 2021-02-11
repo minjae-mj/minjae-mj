@@ -1,7 +1,7 @@
-## Hello from Minjae 🙋🏻‍♀️ <br />
+## Hi, I'm Minjae 🙋🏻‍♀️ <br />
 
-Love to think about "why?" 🤔 <br /> 
 Drink 🍺 in Summer, 🍷 in Winter <br />
+Love to think about "why?" 💡 <br /> 
 
 Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺 <br />
 Currently based in 🇰🇷 <br />
