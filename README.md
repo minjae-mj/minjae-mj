@@ -6,7 +6,7 @@
 
 <span align="center">
   
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 ![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square)
 ![](https://img.shields.io/badge/React-60DAFB?style=flat-square)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square)
@@ -19,7 +19,7 @@
 <br />
 
 - 💡  My Daily <a href="https://velog.io/@minjae-mj">Dev blog</a>
-- 🌱  Currently learning all the best practices of <b>Javascript, React</b> and <b>CSS3</b>
+- 🌱  Currently learning all the best practices of <b>JavaScript, React</b> and <b>CSS3</b>
 - 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and handcrafting
 - 📩  Send me an <a href="mailto:dearmin27@gmail.com">Email</a> for any enquiries!
 <br />
