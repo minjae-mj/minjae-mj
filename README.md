@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&&fontSize=40)
 
 <h1 align="center">Hi, I'm Min Jae 👋🏻 </h1>
-<h3 align="center">A creative Front-end Developer from Seoul</h3>
+<h2 align="center">A creative Front-end Developer from Seoul</h2>
 <br />
 
 <span align="center">
