@@ -1,14 +1,27 @@
-## Hi, I'm Minjae 🙋🏻‍♀️ <br />
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&&fontSize=40)
 
-Drink 🍺 in Summer, 🍷 in Winter <br />
-Love to think about "why?" 💡 <br /> 
+<h1 align="center">Hi, I'm Min Jae 👋🏻 </h1>
+<h3 align="center">A creative Front-end Developer from Seoul</h3>
+<br />
 
-Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺 <br />
-Currently based in 🇰🇷 <br />
-Speak Korean, English and Javascript 🙌🏼 <br />
+<span align="center">
+  
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square)
+![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square)
+![](https://img.shields.io/badge/React-60DAFB?style=flat-square)
+![](https://img.shields.io/badge/Redux-764ABC?style=flat-square)
+![](https://img.shields.io/badge/Sass-CC6699?style=flat-square)
+![](https://img.shields.io/badge/StyledComponents-E97A7D?style=flat-square)
+![](https://img.shields.io/badge/Node.js-3C873A?style=flat-square)
+![](https://img.shields.io/badge/Mysql-F29111?style=flat-square)
 
-Member of TMM (a.k.a The Miracle Morning) <br />
-Old fan of The Phantom Of The Opera 👻 <br />
-If I'm not at my desk, find me in the forest 🌳 <br />
+</span>
+<br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae-mj&count_bg=%233AC7A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- 💡  My Daily <a href="https://velog.io/@minjae-mj">Dev blog</a>
+- 🌱  Back to basic on Javascript, React, CSS3
+- 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and Handcrafting!
+
+<br />
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae-mj&count_bg=%233AC7A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
