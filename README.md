@@ -20,8 +20,8 @@
 
 - 💡  My Daily <a href="https://velog.io/@minjae-mj">Dev blog</a>
 - 🌱  Currently learning all the best practices of <b>Javascript, React</b> and <b>CSS3</b>
-- 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and Handcrafting
-- 📩  Sene me an <a href="mailto:dearmin27@gmail.com">Email</a> for any enquiries!
+- 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and handcrafting
+- 📩  Send me an <a href="mailto:dearmin27@gmail.com">Email</a> for any enquiries!
 <br />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae-mj&count_bg=%233AC7A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
