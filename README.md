@@ -19,7 +19,7 @@
 <br />
 
 - 💡  My Daily <a href="https://velog.io/@minjae-mj">Dev blog</a>
-- 🌱  Currently learning all the best practices of Javascript, React and CSS3
+- 🌱  Currently learning all the best practices of <b>Javascript, React</b> and <b>CSS3</b>
 - 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and Handcrafting
 - 📩  Sene me an <a href="mailto:dearmin27@gmail.com">Email</a> for any enquiries!
 <br />
