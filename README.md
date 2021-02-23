@@ -19,9 +19,9 @@
 <br />
 
 - 💡  My Daily <a href="https://velog.io/@minjae-mj">Dev blog</a>
-- 🌱  Back to basic on Javascript, React, CSS3
-- 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and Handcrafting!
-
+- 🌱  Currently learning all the best practices of Javascript, React and CSS3
+- 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and Handcrafting
+- 📩  Sene me an <a href="mailto:dearmin27@gmail.com">Email</a> for any enquiries!
 <br />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae-mj&count_bg=%233AC7A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
