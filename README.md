@@ -7,7 +7,7 @@
 <span align="center">
   
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square)
 ![](https://img.shields.io/badge/React-60DAFB?style=flat-square)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square)
