@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square)
 ![](https://img.shields.io/badge/StyledComponents-E97A7D?style=flat-square)
 ![](https://img.shields.io/badge/Node.js-3C873A?style=flat-square)
-![](https://img.shields.io/badge/Mysql-F29111?style=flat-square)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![](https://img.shields.io/badge/Mysql-00758F?style=flat-square)
+![](https://img.shields.io/badge/AWS-E47911?style=flat-square)
 
 </span>
 <br />
